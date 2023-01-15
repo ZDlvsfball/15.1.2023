@@ -23,7 +23,8 @@ class Kalkulacka:
 
 x = Kalkulacka()
 print(x.vydel(4,5))
-
+"""komentar od kolegy
+"""
 
 
 class Clovek:
