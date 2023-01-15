@@ -36,7 +36,7 @@ class Clovek:
     def pozdrav(self,jmeno,vek,pohlavi):
         """
 
-        :param jmeno:
+        :param jmeno ahoj:
         :param vek:
         :param pohlavi:
         :return:
