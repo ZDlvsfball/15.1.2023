@@ -24,7 +24,9 @@ class Kalkulacka:
 x = Kalkulacka()
 print(x.vydel(4,5))
 
-
+"""
+koment
+"""
 
 class Clovek:
     def __init__(self,jmeno,vek,pohlavi):
